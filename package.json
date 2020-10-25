@@ -14,5 +14,8 @@
   },
   "author": "Sergey Shpak",
   "license": "Apache-2.0",
-  "repository": "github.com/sergey-shpak/parcel-transformer-webextension"
+  "repository": "github.com/sergey-shpak/parcel-transformer-webextension",
+  "keywords":[
+    "parcel", "webextension", "manifest", "json5"
+  ]
 }
