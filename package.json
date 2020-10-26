@@ -1,6 +1,6 @@
 {
   "name": "parcel-transformer-webextension",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Parcel Transformer WebExtension",
   "main": "index.js",
   "source": "index.js",
@@ -19,5 +19,10 @@
     "url": "https://github.com/sergey-shpak/parcel-transformer-webextension.git"
   },
   "homepage": "https://github.com/sergey-shpak/parcel-transformer-webextension#readme",
-  "keywords": [ "parcel", "webextension", "manifest", "json5" ]
+  "keywords": [
+    "parcel",
+    "webextension",
+    "manifest",
+    "json5"
+  ]
 }
